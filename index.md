@@ -14,7 +14,7 @@ Short description
 ---
 #### [Top News Headlines (Shiny App)](/pdf/sample_presentation.pdf)
 
-<img src="images/Newspaper.png?raw=true"/>
+<img src="images/News.png?raw=true"/>
 
 Short description
 ---
