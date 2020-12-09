@@ -47,11 +47,3 @@ processes
 
 Assessment of different blackjack strategies through simulation, emphasizing
 efficiency through parallel processing and purposeful design of functions
-
----
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-
