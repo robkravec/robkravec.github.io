@@ -9,35 +9,44 @@
 
 <img src="images/NFL_animation.gif?raw=true"/>
 
-Short description
-
----
-#### [Top News Headlines (Shiny App)](https://github.com/robkravec/News-App)
-
-<img src="images/News.png?raw=true"/>
-
-Short description
+Shiny app that generates animations of NFL passing plays from the 2018 season,
+using custom-built theme. 
+Inspired by [2020 NFL Big Data Bowl on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020)
 
 ---
 #### [Economic Impact of COVID-19 (Duke Datathon 2020)](https://github.com/robkravec/2020-Duke-Datathon)
 
 <img src="images/Datathon_Fresno.png?raw=true"/>
 
-Short description
+Winning submission from Duke 2020 Datathon, which challenged entrants to 
+understand and forecast local-level economic impacts of COVID-19. I specifically
+worked with unemployment data from the Central Population Survey and highlight
+this analysis in the linked repository.
+
+---
+#### [Top News Headlines (Shiny App)](https://github.com/robkravec/News-App)
+
+<img src="images/News.png?raw=true"/>
+
+Shiny app that displays top headlines and news sources in tabular form based 
+on user inputs
 
 ---
 #### [NYC Taxi Visualizations with Spark](https://github.com/robkravec/NYC-Taxi-Data)
 
 <img src="images/Yellow_Dropoff.png?raw=true"/>
 
-Short description
+Analysis of February 2015 NYC taxi data. Primarily highlights advanced 
+visualization techniques, use of Spark, and reproducible multi-step research 
+processes
 
 ---
 #### [Blackjack Strategy Simulations with Parallel Processing](https://github.com/robkravec/Blackjack-simulations)
 
 <img src="images/Blackjack.jpg?raw=true"/>
 
-Short description
+Assessment of different blackjack strategies through simulation (which leverages
+parallel processing)
 
 ---
 
