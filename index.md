@@ -11,7 +11,7 @@
 
 Shiny app that generates animations of NFL passing plays from the 2018 season,
 using custom-built theme. 
-Inspired by [2020 NFL Big Data Bowl on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2020)
+Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2021)
 
 ---
 #### [Economic Impact of COVID-19 (Duke Datathon 2020)](https://github.com/robkravec/2020-Duke-Datathon)
