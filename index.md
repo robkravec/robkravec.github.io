@@ -45,8 +45,8 @@ processes
 
 <img src="images/Blackjack.jpg?raw=true"/>
 
-Assessment of different blackjack strategies through simulation (which leverages
-parallel processing)
+Assessment of different blackjack strategies through simulation, emphasizing
+efficiency through parallel processing and purposeful design of functions
 
 ---
 
