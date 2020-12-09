@@ -7,7 +7,7 @@
 
 #### [Animated Plots with NFL Tracking Data (Shiny app)](https://github.com/robkravec/NFL-Animations)
 
-<img src="images/NFL.png?raw=true"/>
+<img src="images/NFL_animation.gif?raw=true"/>
 
 Short description
 
