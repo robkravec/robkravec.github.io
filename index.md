@@ -2,34 +2,35 @@
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/pages/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Fall 2020 
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Animated Plots with NFL Tracking Data (Shiny app)](/pages/sample_page)
+<img src="images/NFL.png?raw=true"/>
 
 ---
+[Top News Headlines (Shiny App)](/pdf/sample_presentation.pdf)
+<img src="images/Newspaper.png?raw=true"/>
 
+---
+[Economic Impact of COVID-19 (Duke Datathon 2020)](http://example.com/)
+<img src="images/Datathon_Clusters.png?raw=true"/>
+<img src="images/Datathon_Fresno.png?raw=true"/>
+
+
+---
+[NYC Taxi Visualizations with Spark](http://example.com/)
+<img src="images/Yellow_Dropoff.png?raw=true"/>
+
+---
+[Blackjack Strategy Simulations with Parallel Processing](http://example.com/)
+<img src="images/Blackjack.jpg?raw=true"/>
+
+---
 
 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
