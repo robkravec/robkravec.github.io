@@ -17,24 +17,28 @@ Short description
 <img src="images/News.png?raw=true"/>
 
 Short description
+
 ---
 #### [Economic Impact of COVID-19 (Duke Datathon 2020)](http://example.com/)
 
 <img src="images/Datathon_Fresno.png?raw=true"/>
 
 Short description
+
 ---
 #### [NYC Taxi Visualizations with Spark](http://example.com/)
 
 <img src="images/Yellow_Dropoff.png?raw=true"/>
 
 Short description
+
 ---
 #### [Blackjack Strategy Simulations with Parallel Processing](http://example.com/)
 
 <img src="images/Blackjack.jpg?raw=true"/>
 
 Short description
+
 ---
 
 
