@@ -5,7 +5,7 @@
 
 ---
 
-#### [Animated Plots with NFL Tracking Data](https://github.com/robkravec/NFL-Animations) [(Shiny app)](https://rob-kravec.shinyapps.io/nfl_dash/?_ga=2.31077759.1555428265.1607526203-871994235.1607526203)
+#### [Animated Plots with NFL Tracking Data](https://github.com/robkravec/NFL-Animations){:target="_blank"} [(Shiny app)](https://rob-kravec.shinyapps.io/nfl_dash/?_ga=2.31077759.1555428265.1607526203-871994235.1607526203)
 
 <img src="images/NFL_animation.gif?raw=true"/>
 
