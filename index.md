@@ -17,9 +17,9 @@ Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-
 
 <img src="images/fried_arsenal.png?raw=true"/>
 
-Exploration of 2017 - 2020 Atlanta Braves pitching Statcast data. Sub-projects include:
+Exploration of 2017-2020 Atlanta Braves Statcast data (pitchers only). Sub-projects include:
 
-- Pitch classification using XGBoost package
+- Pitch classification using gradient boosted tree model (XGBoost)
 - Interactive plots of pitch movement using ggiraph package
 - Evolution of Atlanta Braves pitching staff over time, stitched together with patchwork package
 - Comparison of actual ball / strike calls to an "objective strike zone"
