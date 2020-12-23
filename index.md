@@ -1,10 +1,9 @@
 &nbsp;
 ## Data Science Portfolio
-
+<!---
 ### Fall 2020 
-
+--->
 ---
-
 #### [Animated Plots with NFL Tracking Data](https://github.com/robkravec/NFL-Animations){:target="_blank"} [(Shiny app)](https://rob-kravec.shinyapps.io/nfl_dash/?_ga=2.31077759.1555428265.1607526203-871994235.1607526203){:target="_blank"}
 
 <img src="images/NFL_animation.gif?raw=true"/>
@@ -12,6 +11,18 @@
 Shiny app that generates animations of NFL passing plays from the 2018 season,
 using custom-built theme. 
 Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2021){:target="_blank"}
+
+---
+#### [Atlanta Braves Statcast Data Exploration](https://github.com/robkravec/Atlanta-Braves-Pitching){:target="_blank"}
+
+<img src="images/fried_arsenal.png?raw=true"/>
+
+Exploration of 2017 - 2020 Atlanta Braves pitching Statcast data. Sub-projects include:
+
+- Pitch classification using XGBoost package
+- Interactive plots of pitch movement using ggiraph package
+- Evolution of Atlanta Braves pitching staff over time, stitched together with patchwork package
+- Comparison of actual ball / strike calls to an "objective strike zone"
 
 ---
 #### [Economic Impact of COVID-19 (Duke Datathon 2020)](https://github.com/robkravec/2020-Duke-Datathon){:target="_blank"}
