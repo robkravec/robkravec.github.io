@@ -13,6 +13,14 @@ using custom-built theme.
 Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2021){:target="_blank"}
 
 ---
+#### [NFL Plotting Custom Theme](https://github.com/robkravec/NFL-Animations){:target="_blank"}
+
+<img src="images/ggfootball.png?raw=true"/>
+
+Customizable NFL plotting theme made accessible to others through `ggfootball` package. Interested users
+may install using `devtools::install_github("robkravec/ggfootball")`
+
+---
 #### [Atlanta Braves Statcast Data Exploration](https://github.com/robkravec/Atlanta-Braves-Pitching){:target="_blank"}
 
 <img src="images/fried_arsenal.png?raw=true"/>
@@ -32,7 +40,7 @@ Exploration of 2017-2020 Atlanta Braves Statcast data (pitchers only). Sub-proje
 Winning submission from Duke 2020 Datathon, which challenged entrants to 
 understand and forecast local-level economic impacts of COVID-19. I specifically
 worked with unemployment data from the Central Population Survey and highlight
-this analysis in the linked repository.
+this analysis in the linked repository
 
 ---
 #### [Top News Headlines](https://github.com/robkravec/News-App){:target="_blank"} [(Shiny App)](https://rob-kravec.shinyapps.io/news/?_ga=2.31077759.1555428265.1607526203-871994235.1607526203){:target="_blank"}
