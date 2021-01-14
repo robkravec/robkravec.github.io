@@ -13,7 +13,7 @@ using a custom-built theme.
 Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2021){:target="_blank"}.
 
 Those interested in producing their own American football plots can check-out my
-`ggfootball` [package](https://github.com/robkravec/ggfootball){:target="_blank"}. To install, simply
+`ggfootball` [package](https://github.com/robkravec/ggfootball){:target="_blank"} in R. To install, simply
 use the following command: `devtools::install_github("robkravec/ggfootball")`
 
 ---
