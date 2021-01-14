@@ -10,7 +10,7 @@
 
 Shiny app that generates animations of NFL passing plays from the 2018 season,
 using custom-built theme. 
-Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2021){:target="_blank"}
+Inspired by [NFL Big Data Bowl 2021 on Kaggle](https://www.kaggle.com/c/nfl-big-data-bowl-2021){:target="_blank"}.
 
 Those interested in producing their own American football plots can check-out my
 `ggfootball` [package](https://github.com/robkravec/ggfootball){:target="_blank"}. To install, simply
