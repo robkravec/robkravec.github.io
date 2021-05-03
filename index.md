@@ -19,7 +19,7 @@ use the following command: `devtools::install_github("robkravec/ggfootball")`
 ---
 #### [Python Implementation of t-SNE](https://github.com/robkravec/t-SNE-Implementation/blob/main/README.md){:target="_blank"}
 
-<img src="images/Steps.png?raw=true"/>
+<img src="images/Steps2.png?raw=true"/>
 
 Python implementation of t-stochastic neighbor embedding (t-SNE) based on van der Maaten and Hinton's 2008 paper, "Visualizing Data using t-SNE." The linked 
 repository contains a reproducible report that discusses the t-SNE algorithm in depth (including optimization opportunities) and demonstrates results on both simulated and real datasets. This homebrewed t-SNE implementation can also be downloaded using the `setup.py` file provided in the repository.
