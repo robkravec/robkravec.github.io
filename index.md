@@ -17,13 +17,21 @@ Those interested in producing their own American football plots can check-out my
 use the following command: `devtools::install_github("robkravec/ggfootball")`
 
 ---
+#### [Python Implementation of t-SNE](https://github.com/robkravec/t-SNE-Implementation/blob/main/README.md){:target="_blank"}
+
+<img src="images/Steps.png?raw=true"/>
+
+Python implementation of t-stochastic neighbor embedding (t-SNE) based on van der Maaten and Hinton's 2008 paper, "Visualizing Data using t-SNE." The linked 
+repository contains a reproducible report that discusses the t-SNE algorithm in depth (including optimization opportunities) and demonstrates results on both simulated and real datasets. This homebrewed t-SNE implementation can also be downloaded using the `setup.py` file provided in the repository.
+
+---
 #### [Hierachical Modeling Demo](https://github.com/robkravec/Hierarchical-Modeling-Demo){:target="_blank"}
 
 <img src="images/hierarchical_anim_plt.gif?raw=true"/>
 
-Educational tool to demonstrate principles of hierarchical modeling based on an analysis of a simple Major
-League Baseball (MLB) dataset. When the results do not turn out exactly as planned, I discuss potential causes, 
-perform model diagnostics, and investigate the impact of changing the amount of data utilized.
+Educational tool to demonstrate principles of hierarchical modeling based on an analysis of Major
+League Baseball (MLB) data. When the results do not turn out exactly as planned, I discuss potential causes, 
+perform model diagnostics, and investigate the impact of sample size
 
 ---
 #### [Atlanta Braves Statcast Data Exploration](https://github.com/robkravec/Atlanta-Braves-Pitching){:target="_blank"}
