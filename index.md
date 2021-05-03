@@ -17,6 +17,15 @@ Those interested in producing their own American football plots can check-out my
 use the following command: `devtools::install_github("robkravec/ggfootball")`
 
 ---
+#### [Hierachical Modeling Demo](https://github.com/robkravec/Hierarchical-Modeling-Demo){:target="_blank"}
+
+<img src="images/hierarchical_anim_plt.gif?raw=true"/>
+
+Educational tool to demonstrate principles of hierarchical modeling based on an analysis of a simple Major
+League Baseball (MLB) dataset. When the results do not turn out exactly as planned, I discuss potential causes, 
+perform model diagnostics, and investigate the impact of changing the amount of data utilized.
+
+---
 #### [Atlanta Braves Statcast Data Exploration](https://github.com/robkravec/Atlanta-Braves-Pitching){:target="_blank"}
 
 <img src="images/fried_arsenal.png?raw=true"/>
